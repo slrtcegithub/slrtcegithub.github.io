@@ -77,7 +77,6 @@ body::-webkit-scrollbar {
 .about,
 .services,
 .testimonials,
-.faq,
 .contact {
   overflow-x: hidden;
 }

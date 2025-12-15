@@ -1,11 +1,3 @@
-/**
- * Template Name: Elevate
- * Template URL: https://bootstrapmade.com/elevate-bootstrap-landing-page-template/
- * Updated: Oct 24 2025 with Bootstrap v5.3.8
- * Author: BootstrapMade.com
- * License: https://bootstrapmade.com/license/
- */
-
 (function() {
     "use strict";
 
